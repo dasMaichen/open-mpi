@@ -1,0 +1,1 @@
+targets = [ "//:open-mpi" ]
